@@ -1,1 +1,9 @@
 
+Laboratoire 2 - Architecture des logiciels
+
+Membres de l'équipe :
+- ADISSO Allglory   ADIA23010300
+- ALIMI Rayane       ALIR21030509
+
+URL du dépôt GitHub :
+https://github.com/ADISSOAllglory23/Architecture--Laboratoire-2.git
